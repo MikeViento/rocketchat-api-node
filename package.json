@@ -1,6 +1,6 @@
 {
-  "name": "rocketchat-api",
-  "version": "1.0.4",
+  "name": "rocketchat-api-node",
+  "version": "1.0.0",
   "description": "Rocket chat node api",
   "main": "./index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/gusnips/rocketchat-api-node.git"
   },
   "keywords": [
-    "rocket-chat"
+    "rocket-chat-api-node"
   ],
   "author": "gusnips",
   "license": "ISC",
